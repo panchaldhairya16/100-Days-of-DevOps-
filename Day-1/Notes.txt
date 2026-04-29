@@ -1,2 +1,1 @@
-# Task - 1 
-# Day 1: Linux User Setup with Non-Interactive Shell
+
