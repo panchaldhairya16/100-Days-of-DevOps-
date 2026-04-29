@@ -23,3 +23,8 @@ Non-interactive shells are important for security, especially when creating user
 ### 🔹 Create a User with Non-Interactive Shell
 ```bash
 sudo useradd -s /sbin/nologin username
+
+##🔍 Explanation
+useradd → Command to create a new user
+-s → Specifies the login shell
+/sbin/nologin → Disables interactive login
